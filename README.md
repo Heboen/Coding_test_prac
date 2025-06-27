@@ -23,6 +23,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Heboen/Coding_test_prac/tree/master/0322-coin-change) |
+| [0744-network-delay-time](https://github.com/Heboen/Coding_test_prac/tree/master/0744-network-delay-time) |
 ## Tree
 |  |
 | ------- |
@@ -32,6 +33,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Heboen/Coding_test_prac/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0744-network-delay-time](https://github.com/Heboen/Coding_test_prac/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,4 +59,16 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Heboen/Coding_test_prac/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Heboen/Coding_test_prac/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Heboen/Coding_test_prac/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
