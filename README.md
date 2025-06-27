@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Heboen/Coding_test_prac/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
 | [0322-coin-change](https://github.com/Heboen/Coding_test_prac/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Heboen/Coding_test_prac/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -41,4 +43,16 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Heboen/Coding_test_prac/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
