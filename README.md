@@ -18,6 +18,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0070-climbing-stairs](https://github.com/Heboen/Coding_test_prac/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Heboen/Coding_test_prac/tree/master/0322-coin-change) |
+| [1250-longest-common-subsequence](https://github.com/Heboen/Coding_test_prac/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
+| [1250-longest-common-subsequence](https://github.com/Heboen/Coding_test_prac/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
