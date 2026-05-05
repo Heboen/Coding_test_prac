@@ -51,6 +51,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Heboen/Coding_test_prac/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
 | [1250-longest-common-subsequence](https://github.com/Heboen/Coding_test_prac/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
@@ -73,4 +74,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Heboen/Coding_test_prac/tree/master/0744-network-delay-time) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Heboen/Coding_test_prac/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
