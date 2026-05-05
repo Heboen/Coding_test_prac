@@ -26,6 +26,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0322-coin-change](https://github.com/Heboen/Coding_test_prac/tree/master/0322-coin-change) |
 | [0744-network-delay-time](https://github.com/Heboen/Coding_test_prac/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Heboen/Coding_test_prac/tree/master/0785-is-graph-bipartite) |
 ## Tree
 |  |
 | ------- |
@@ -36,6 +37,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Heboen/Coding_test_prac/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0744-network-delay-time](https://github.com/Heboen/Coding_test_prac/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Heboen/Coding_test_prac/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,4 +80,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Heboen/Coding_test_prac/tree/master/0020-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Heboen/Coding_test_prac/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Heboen/Coding_test_prac/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
