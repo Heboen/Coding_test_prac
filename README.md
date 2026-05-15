@@ -10,6 +10,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Heboen/Coding_test_prac/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Heboen/Coding_test_prac/tree/master/0119-pascals-triangle-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heboen/Coding_test_prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Heboen/Coding_test_prac/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Heboen/Coding_test_prac/tree/master/0322-coin-change) |
 ## Hash Table
@@ -92,4 +93,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Heboen/Coding_test_prac/tree/master/0785-is-graph-bipartite) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heboen/Coding_test_prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
