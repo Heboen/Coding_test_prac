@@ -13,10 +13,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heboen/Coding_test_prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Heboen/Coding_test_prac/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Heboen/Coding_test_prac/tree/master/0322-coin-change) |
+| [2540-minimum-common-value](https://github.com/Heboen/Coding_test_prac/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Heboen/Coding_test_prac/tree/master/0001-two-sum) |
+| [2540-minimum-common-value](https://github.com/Heboen/Coding_test_prac/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +99,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heboen/Coding_test_prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2540-minimum-common-value](https://github.com/Heboen/Coding_test_prac/tree/master/2540-minimum-common-value) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/Heboen/Coding_test_prac/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
