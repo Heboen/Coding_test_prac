@@ -15,12 +15,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0322-coin-change](https://github.com/Heboen/Coding_test_prac/tree/master/0322-coin-change) |
 | [2540-minimum-common-value](https://github.com/Heboen/Coding_test_prac/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Heboen/Coding_test_prac/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Heboen/Coding_test_prac/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Heboen/Coding_test_prac/tree/master/0001-two-sum) |
 | [2540-minimum-common-value](https://github.com/Heboen/Coding_test_prac/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Heboen/Coding_test_prac/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Heboen/Coding_test_prac/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0020-valid-parentheses](https://github.com/Heboen/Coding_test_prac/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Heboen/Coding_test_prac/tree/master/0079-word-search) |
 | [1250-longest-common-subsequence](https://github.com/Heboen/Coding_test_prac/tree/master/1250-longest-common-subsequence) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Heboen/Coding_test_prac/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,4 +115,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0338-counting-bits](https://github.com/Heboen/Coding_test_prac/tree/master/0338-counting-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Heboen/Coding_test_prac/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Heboen/Coding_test_prac/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
