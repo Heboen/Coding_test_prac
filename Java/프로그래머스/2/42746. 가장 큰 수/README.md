@@ -1,10 +1,10 @@
 # [level 2] 가장 큰 수 - 42746 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42746) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=java) 
 
 ### 성능 요약
 
-메모리: 123 MB, 시간: 157.26 ms
+메모리: 135 MB, 시간: 100.20 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 11일 00:34:50
+2026년 07월 25일 21:10:14
 
 ### 문제 설명
 
